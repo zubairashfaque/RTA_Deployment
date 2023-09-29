@@ -2,7 +2,7 @@
 
 ![Python Version](https://img.shields.io/badge/Python-v3.x-green.svg)
 ![Streamlit Version](https://img.shields.io/badge/Streamlit-v1.23.0-red.svg)
-![Imbalanced-Learn Version](https://img.shields.io/badge/Imbalanced--Learn-v0.8-orange.svg)
+![Imbalanced-Learn Version](https://img.shields.io/badge/Imbalanced--Learn-v0.11.0-orange.svg)
 ![Pandas Version](https://img.shields.io/badge/Pandas-v2.0-blue.svg)
 
 ![Accident Image](./images/accident_image.jpg)
@@ -131,7 +131,7 @@ To run the project, ensure you have the following requirements installed:
 - Streamlit
 - Pandas
 - Scikit-learn
-- ADASYN (for feature selection)
+- imbalanced-learn ADASYN (Over-sampling Technique)
 
 Install the required packages using the command `pip install -r requirements.txt`.
 
