@@ -111,10 +111,11 @@ The project directory structure is organized as follows:
    - Gather the accident dataset containing relevant features.
    - Preprocess the data, handle missing values, and encode categorical variables.
 
-2. **Feature Selection using ADASYN** <a name="feature-selection-using-adasyn"></a>
-   - Address class imbalance using the ADASYN technique.
-   - Select and shortlist features for model training based on ADASYN results.
-
+2. **Address class imbalance using ADASYN** <a name="feature-selection-using-adasyn"></a>
+   - It generates synthetic samples for the minority class, focusing on instances that are difficult to classify.
+   - This adaptive oversampling helps create a more balanced dataset, improving model performance. While ADASYN doesn't directly perform feature selection, it indirectly influences it by rebalancing the data, potentially highlighting previously underrepresented features as more relevant for classification tasks.
+   - This balanced dataset, combined with selected features, enhances the training of machine learning models, particularly in scenarios with imbalanced classes.
+     
 3. **Feature Importance and Test Score** <a name="feature-importance-and-test-score"></a>
    - Train a machine learning model with selected features.
    - Evaluate feature importance and their impact on the model's performance.
