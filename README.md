@@ -96,7 +96,7 @@ Given the highly unbalanced dataset with accident information, the task is to pr
 ## Features <a name="features"></a>
 
 - Preprocesses and explores the accident dataset.
-- Utilizes ADASYN for feature selection to address class imbalance.
+- Utilizes ADASYN ADASYN (Adaptive Synthetic Sampling) is a data balancing technique used in machine learning to address class imbalance.
 - Evaluates feature importance and their impact on the model.
 - Deploys an interactive Streamlit web application for predictions.
 
