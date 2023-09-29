@@ -32,7 +32,9 @@
 
 ### Project Description <a name="project-description"></a>
 
-The Accident Severity Prediction project aims to predict the severity of accidents based on various input features. It utilizes machine learning techniques and a Streamlit web application for easy interaction.
+The objective of the Accident Severity Prediction project is to forecast the level of severity for accidents by leveraging a diverse set of input features. This initiative employs machine learning methodologies and is complemented by a user-friendly Streamlit web application for seamless interaction.
+
+It's important to note that this project is designed with deployment in mind. In addition to the primary predictive model, the comprehensive project encompasses rigorous testing of various oversampling and undersampling techniques to address class imbalance. Moreover, it involves extensive experimentation with numerous categorical machine-learning models. For detailed information and access to the project's codebase, you can refer to the repository located at 'x'.
 
 ### Project Motivation <a name="project-motivation"></a>
 
