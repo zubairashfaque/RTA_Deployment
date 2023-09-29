@@ -18,7 +18,7 @@
 4. [Project Directory Structure](#project-directory-structure)
 5. [Steps](#steps)
    - [Data Collection and Preprocessing](#data-collection-and-preprocessing)
-   - [Feature Selection using ADASYN](#feature-selection-using-adasyn)
+   - [Address class imbalance using ADASYN](#feature-selection-using-adasyn)
    - [Feature Importance and Test Score](#feature-importance-and-test-score)
    - [Streamlit Deployment](#streamlit-deployment)
 6. [Requirements](#requirements)
@@ -44,7 +44,7 @@ The goals of this project include:
 
 - Implementing machine learning for accident severity prediction.
 - Creating a user-friendly Streamlit app for easy access and input.
-- Utilizing feature selection techniques like ADASYN to improve model performance.
+- Utilizing ADASYN to address class imbalance and to improve model performance.
 - Demonstrating the practical use of machine learning in accident analysis.
 
 ## Project Overview <a name="project-overview"></a>
