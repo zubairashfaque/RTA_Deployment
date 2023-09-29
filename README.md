@@ -5,7 +5,13 @@
 ![Imbalanced-Learn Version](https://img.shields.io/badge/Imbalanced--Learn-v0.11.0-orange.svg)
 ![Pandas Version](https://img.shields.io/badge/Pandas-v2.0-blue.svg)
 
-![Accident Image](./images/accident_image.jpg)
+<br>
+<br>
+<p align="center">
+  <img src="https://www.arthursteijn.dk/wp-content/uploads/2019/06/Traffic-Jam-1.gif" 
+       width="350">
+</p>
+<br>
 
 ## Table of Contents
 1. [Introduction](#introduction)
