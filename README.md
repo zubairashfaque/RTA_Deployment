@@ -181,8 +181,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements <a name="Acknowledgements"></a>
 
-- The sentiment analysis algorithm is based on the Naïve Bayes approach.
-- Streamlit is used for creating the user interface.
+- The machine learning model used in this project is based on the Extra Trees Classifier algorithm.
+- Streamlit was utilized for creating the user-friendly interface.
 
 ## Contact Information <a name="Contact"></a>
 For questions, feedback, or discussions related to this project, you can contact me at [mianashfaque@gmail.com](mailto:mianashfaque@gmail.com).
